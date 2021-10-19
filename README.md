@@ -1,6 +1,5 @@
-=====================
-Auteur : Lionel Ding
-=====================
+#Auteur : Lionel Ding
+
 
 ---------
 FPS / UPS
